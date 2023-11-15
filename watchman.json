@@ -1,0 +1,8 @@
+{
+  "trigger": {
+    "name": "rust-auto-run",
+    "expression": ["suffix", "rs"],
+    "command": ["cargo", "run"],
+    "append_files": false
+  }
+}
