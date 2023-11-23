@@ -1,2 +1,4 @@
 pub mod my_utils;
-mod remove_cursor;
+pub mod remove;
+pub mod path;
+pub mod sort;
